@@ -138,7 +138,7 @@ body {
 
 .member-position {
     font-size: 16px;
-    line-height: 1.19px;
+    line-height: 1.19;
 }
 
 
@@ -174,7 +174,7 @@ body {
 .project-title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 2.00;
+    line-height: 2;
     letter-spacing: 0.06em;
     color: var(--secondary-text-color);
 }
